@@ -27,5 +27,4 @@ sudo apt-get --purge remove fonts-roboto
 
 echo "Updating font-cache..."
 sudo fc-cache -f > /dev/null
-
 echo "Done!"
